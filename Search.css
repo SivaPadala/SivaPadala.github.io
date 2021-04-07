@@ -1,0 +1,147 @@
+body{
+	height :1825px;
+	width : px;
+background-image:linear-gradient(#C63D0F, #8e0e00, #1f1c18); 
+}
+#nav_bar_line3{
+background-color:#ffffcc;
+position: absolute; 
+top: 230%; 
+height: 0.7%; 
+width: 100%; 
+left: 0px;
+}
+#nav_bar_line2{
+background-color:#ffffcc;
+position: absolute; 
+top: 201px; 
+height: 0.7%; 
+width: 100%; 
+left: 0px;
+}
+#nav_bar_line1{
+background-color:#ffffcc;
+position: absolute; 
+top: 170px; 
+height: 0.7%; 
+width: 100%; 
+left: 0px;
+}
+#wrechtextU{
+background-color:white;
+position: absolute; 
+top: 32px; 
+height: 0.2%; 
+width: 38.3%; 
+left:30.8%;
+}
+#wrechtextL{
+background-color:white;
+position: absolute; 
+top: 109px; 
+height: 0.2%; 
+width: 38.3%; 
+left:30.8%;
+}
+#wrechtextMU{
+background-color:white;
+position: absolute; 
+top: 38px; 
+height: 0.2%; 
+width: 37.8%; 
+left: 31%;
+}
+#wrechtextML{
+background-color:white;
+position: absolute; 
+top: 103px; 
+height: 0.2%; 
+width: 37.8%; 
+left: 31%;
+}
+#nav_id{
+text-align:center;
+font-size:1.5em;
+margin-top:3em;
+}
+a:hover{
+color:#047bd5;
+}
+a{
+text-decoration:none;
+color:yellow;
+}
+#Experience_Divinity{
+font-size:43pt;
+color:#047bd5;
+text-align: center;
+}
+
+
+#central_div{
+position: absolute; 
+#top: 33%; 
+height: 80%; 
+width: 100%; 
+left: 0px;
+}
+
+
+
+#sep1{
+background-color:white;
+height: 3px;
+width: 980px;
+left: 14%;
+margin:auto;
+}
+
+#img_1{
+margin-top:20px;
+margin-left:2%;
+width:35%;
+margin-bottom:20px;
+}
+#desc1{
+float:left; 
+margin-left:17%; 
+width:30%; }
+
+
+
+#footer{
+background-color:"white";
+height:300px;
+width:100%;
+position:absolute;
+top:230%;
+}
+#opening_hrs{
+height:300px;
+width:33%;
+float:left;
+}
+#opening_heading{
+color:yellow;
+text-align:center;
+}
+#p_id1{
+color:#EFEFEF;
+text-align:center;
+}
+#p_id2{
+color:#EFEFEF;
+text-align:center;
+}
+#address_div{
+height:300px;
+width:33%;
+float:left;
+}
+#address{
+color:yellow;
+text-align:center;
+}
+#GglMp1{
+margin-left:300px;
+}
